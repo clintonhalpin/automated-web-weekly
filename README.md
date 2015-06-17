@@ -1,5 +1,5 @@
-# boilerplate-angular
-Basic Angular Stuff
+# automated-web-weekly 
+[http://automated-web-weekly.com](http://automated-web-weekly.com/)
 
 # get started
 ```
